@@ -6,8 +6,5 @@ feature line 1.
 Description line 3.
 Description on line 7.
 feature line 2.
-<<<<<<< HEAD
 Main line 4.
-=======
 feature line 3.
->>>>>>> fc4023a (Add feature line 3)
