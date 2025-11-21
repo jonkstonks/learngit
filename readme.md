@@ -1,10 +1,10 @@
 ## Title
 
-Description, description.
-More description.
-feature line 1.
-Description line 3.
-Description on line 7.
-feature line 2.
-Main line 4.
-feature line 3.
+- Description, description.
+- More description.
+- feature line 1.
+- Description line 3.
+- Description on line 7.
+- feature line 2.
+- Main line 4.
+- feature line 3.
